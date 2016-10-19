@@ -3,6 +3,7 @@ layout: post
 title: Lego Ghostbusters HQ Revealed
 permalink: /lego-ghostbusters-hq-revealed
 excerpt: "Lego just tweeted the first official images of the Lego Ghostbusters HQ, set number 75827."
+category: News
 source: https://twitter.com/LEGO_Group/status/659012107002859521
 tags: ghostbusters
 sets: "21108: Ghostbusters Ecto, 75827: Ghostbusters Firehouse Headquarters"

@@ -3,6 +3,7 @@ layout: post
 title: LEGO Dimensions DeLorean and Batmobile LDD Files
 permalink: /lego-dimensions-delorean-and-batmobile
 excerpt: "Reddit user cakeinmilk has posted LDD files for the Lego Dimensions Batmobile and DeLorean."
+category: MOC
 source: http://www.cakeinmilk.com/post/116580063366/i-took-the-best-parts-of-the-lego-dimensions-sets
 tags: dimensions ldd
 sets: "71173: Starter Pack: Xbox 360, 71201: Level Pack: Back To The Future"

@@ -3,6 +3,7 @@ layout: post
 title: Saving Money on Lego in the UK
 permalink: /saving-money-on-lego-in-the-uk
 excerpt: "The UK lacks some of the stores the US have that are known for having good Lego discounts. This article outlines the methods I use to save as much money as possible when buying Lego."
+category: Guides
 ---
 
 Although there always seems to be some great Lego bargains to be had in the US from the likes of Walmart and Target, the UK doesn't really have equivalent stores that do reductions like those stores do. But there are a number of ways to save significant money on Lego in the UK.

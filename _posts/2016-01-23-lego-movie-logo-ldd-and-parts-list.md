@@ -3,6 +3,7 @@ layout: post
 title: Lego Movie Logo LDD and Parts List
 permalink: /lego-movie-logo-ldd-and-parts-list
 excerpt: "I created the Lego Movie Logo in Lego Digital Designer base on an MOC by Lucifer Adams."
+category: MOC
 tags: ldd movie
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: Electro Polybag Found at Toys R Us
 permalink: /electro-polybag-found-at-toys-r-us
 excerpt: "The Amazing Spider-Man 2 Electro polybag (5002125) has been found in Toys R Us by Reddit user iCANhazRECON"
+category: News
 source: http://www.reddit.com/r/lego/comments/34qyzl/i_feel_bad_for_those_who_spent_100_on_their/
 tags: marvel polybag
 sets: "5002125: Electro"

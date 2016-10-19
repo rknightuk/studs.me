@@ -3,6 +3,7 @@ layout: post
 title: All Combinations of 2x4 LEGO Bricks
 permalink: /all-combinations-of-2x4-lego-bricks
 excerpt: "An interesting paper about the different combinations of LEGO bricks."
+category: Misc
 source: http://c-mt.dk/counting/?view=paper
 ---
 

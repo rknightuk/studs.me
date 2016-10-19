@@ -3,6 +3,7 @@ layout: post
 title: 10249 Christmas Tree LDD and Parts List
 permalink: /10249-christmas-tree-ldd-and-parts-list
 excerpt: "This month Lego gave the Christmas Train as a free gift with purchases over £50 and this reminded me that I want to build the Christmas tree from the Toy Shop. I downloaded the instructions and built the christmas tree and ladder in Lego Digital Designer."
+category: MOC
 tags: christmas ldd
 sets: "10249: Toy Shop, 40138: Christmas Train"
 ---

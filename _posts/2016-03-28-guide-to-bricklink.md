@@ -3,6 +3,7 @@ layout: post
 title: Guide to Bricklink
 permalink: /guide-to-bricklink
 excerpt: "I created Guide to Bricklink to be the ultimate guide to buying from Bricklink."
+category: Guides
 tags: bricklink
 ---
 

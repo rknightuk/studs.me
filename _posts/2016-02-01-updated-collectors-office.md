@@ -3,6 +3,7 @@ layout: post
 title: Updated Collector's Office
 permalink: /updated-collectors-office
 excerpt: "An update to my Collector's Office MOC"
+category: MOC
 tags: collector marvel
 sets: "COMCON035-1: The Collector"
 flickr: 72157664284170782

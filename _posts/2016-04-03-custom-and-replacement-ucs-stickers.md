@@ -3,6 +3,7 @@ layout: post
 title: Custom and Replacement UCS Stickers
 permalink: /custom-and-replacement-ucs-stickers
 excerpt: "Some decent quality custom UCS-style stickers for the UCS Batmobile and Bat-Pod."
+category: Misc
 sets: "7784: The Batmobile: Ultimate Collectors' Edition, 76023: The Tumbler"
 flickr: 72157663525770274
 ---

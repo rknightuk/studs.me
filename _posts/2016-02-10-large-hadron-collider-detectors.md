@@ -3,6 +3,7 @@ layout: post
 title: Large Hadron Collider Detectors
 permalink: /large-hadron-collider-detectors
 excerpt: "My MOC display for the Large Hadron Collider detectors."
+category: MOC
 tags: ideas
 flickr: 72157664412606416
 ---

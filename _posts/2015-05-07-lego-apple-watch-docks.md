@@ -3,6 +3,7 @@ layout: post
 title: Lego Apple Watch Docks
 permalink: /lego-apple-watch-docks
 excerpt: "Since the release of the Apple Watch, I've seen quite a few interesting charging docks built with LEGO. Here are some of my favourite ones."
+category: MOC
 tags: applewatch
 ---
 

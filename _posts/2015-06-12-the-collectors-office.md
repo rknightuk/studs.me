@@ -3,6 +3,7 @@ layout: post
 title: The Collector's Office
 permalink: /the-collectors-office
 excerpt: "My Guardians of the Galaxy Collector's Office MOC"
+category: MOC
 tags: collector marvel
 sets: "COMCON035-1: The Collector"
 flickr: 72157664284170782
