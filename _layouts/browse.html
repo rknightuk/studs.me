@@ -1,7 +1,31 @@
 {% include header.html %}
 
-<div>
-	{{ content }}
-</div>
+<article class="content__article">
+
+	<header class="article__info">
+
+		<h1 class="article__title">{{ page.title }}</h1>
+
+	</header>
+
+	<section class="article__content">
+
+		{{ content }}
+
+		<h2>Categories</h2>
+
+		<p>
+			{% for category in site.cats %}
+		    	<code class="article__category article__category--large">
+		    		<a href="/category/{{ category | downcase}}">
+			    		{{ category }}
+		    		</a>
+	    		</code>
+			{% endfor %}
+		</p>
+
+	</section>
+
+</article>
 
 {% include footer.html %}

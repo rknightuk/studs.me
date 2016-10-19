@@ -1,5 +1,4 @@
 ---
 layout: browse
+title: Browse
 ---
-
-BROWSE

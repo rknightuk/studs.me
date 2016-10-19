@@ -1,0 +1,10 @@
+---
+layout: page
+title: Categories
+---
+
+{% for category in site.cats %}
+
+<li><a href="/category/{{ category | downcase}}">{{ category }}</a></li>
+
+{% endfor %}

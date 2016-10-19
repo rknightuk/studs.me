@@ -12,6 +12,6 @@ Many [Ultimate Collector's Sets](http://lego.wikia.com/wiki/Ultimate_Collector's
 
 After some research into how I could design and print my own plaque for the Batmobile, I found [Stick 2 Quality](http://stores.ebay.co.uk/STICK-2-QUALITY-ZACPARIS?_trksid=p2047675.l2563) on eBay. Stick 2 Quality is an Australian company that sell replacement and replica stickers for use with Lego, including a [UCS-style sticker for the Batmobile](http://www.ebay.co.uk/itm/CUSTOM-DIE-CUT-UCS-STYLE-PLAQUE-STICKER-7784-BATMOBILE-BOOM-/141868354283?hash=item2108034aeb). I also ordered the [Batpod sticker](http://www.ebay.co.uk/itm/CUSTOM-BATMAN-PLAQUE-STICKER-BATPOD-MODELS-TOYS-5004590-76023-ETC-/141835544626?hash=item21060ea832).
 
-![UCS Batmobile Custom Sticker](http://studshq.s3.amazonaws.com/batmobile-ucs-sticker.jpg)
+[![UCS Batmobile Custom Sticker](http://studshq.s3.amazonaws.com/batmobile-ucs-sticker.jpg)](http://studshq.s3.amazonaws.com/batmobile-ucs-sticker.jpg)
 
 Although Stick 2 Quality are based in Australia, postage is reasonable and the stickers arrived within a week of ordering. I can highly recommend these for anyone looking for replacement or replica stickers.

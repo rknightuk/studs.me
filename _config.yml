@@ -18,6 +18,7 @@ description: A Lego Site by Robb Lewis
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://studs.me
 twitter: <a href="https://twitter.com/StudsHQ">@StudsHQ</a>
+cats: [Guides,MOC,News,Misc]
 
 # Build settings
 markdown: kramdown
