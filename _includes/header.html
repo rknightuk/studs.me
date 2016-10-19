@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+	
+		<title>{% if page.title %}{{ page.title }}{% else %}Home{% endif %} — {{ site.title }}</title>
+		
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="description" content="{{ site.description }}">
+		
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="stylesheet" href="/assets/css/style.css">
+		<link rel="stylesheet" href="/assets/css/magnific.css">
+		
+		<link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+
+		<script>
+		  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
+		  arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
+		  d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
+		  insertBefore(d,q)}(window,document,'script','_gs');
+
+		  _gs('GSN-973214-C');
+		</script>
+		
+	</head>
+	
+	<body>
+
+		<header class="header-info"> <!-- full width of site -->
+
+			<div class="header-info__wrapper">
+
+				<div class="header-info__centerer">
+				
+					<div class="header-info__logo">
+						<img src="assets/img/logo.png" width="115" height="115">
+					</div>
+
+					<div class="header-info__title-wrapper">
+						<h1 class="header-info__title">{{ site.title }}</h1>
+						<h2 class="header-info__tagline">{{ site.description }}</h2>
+					</div>
+
+				</div>
+
+			</div>
+
+		</header>
+
+		<header class="bricklink-banner">
+			Learn everything about buying on Bricklink at <a href="http://guidetobricklink.com" target="_blank">GuideToBricklink.com</a>
+		</header>
+
+		<nav class="site-nav">
+
+			<ul class="site-nav__list">
+
+				<li class="site-nav__item">
+					<a href="/" {% if page.path == 'index.md' %}class="active"{% endif %}>
+						Home
+					</a>
+				</li>
+				<li class="site-nav__item">
+					<a href="/about" {% if page.path == 'about.md' %}class="active"{% endif %}>
+						About
+					</a>
+				</li>
+				<li class="site-nav__item">
+					<a href="/browse" {% if page.path == 'browse.md' %}class="active"{% endif %}>
+						Browse
+					</a>
+				</li>
+
+			</ul>
+
+		</nav>
+
+		<section class="content">
