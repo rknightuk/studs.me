@@ -43,7 +43,7 @@ Disadvantages:
 
 ### Hot UK Deals and Retailer Promotions
 
-The Hot UK Deals app ([iOS](https://geo.itunes.apple.com/gb/app/hotukdeals-uks-hottest-deals/id570702323?mt=8&at=1001l3gY&ct=studs) | [Android](https://play.google.com/store/apps/details?id=com.tippingcanoe.hukd&hl=en_GB)) allows you to setup notifications based on keywords. By setting "Lego" as one of your keywords, any time a deal is posted containing the word Lego, you'll get a notifications.
+The [Hot UK Deals](http://www.hotukdeals.com/) app allows you to setup notifications based on keywords. By setting "Lego" as one of your keywords, any time a deal is posted containing the word Lego, you'll get a notifications.
 
 A lot of the UK supermarkets sell Lego, so when they get reduced, someone always posts it pretty quickly to Hot UK Deals. Something to look out for here is that some of the deals will be store specific so may not be applicable to you. However, when a retailer is doing 3 for 2 on Lego (like Tesco did recently), this can be a great time to save a significant amount of money on sets you want.
 
