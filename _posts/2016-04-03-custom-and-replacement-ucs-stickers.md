@@ -5,7 +5,7 @@ permalink: /custom-and-replacement-ucs-stickers
 excerpt: "Some decent quality custom UCS-style stickers for the UCS Batmobile and Bat-Pod."
 category: Misc
 sets: "7784: The Batmobile: Ultimate Collectors' Edition, 76023: The Tumbler"
-flickr: 72157663525770274
+flickr: "72157663525770274"
 ---
 
 Many [Ultimate Collector's Sets](http://lego.wikia.com/wiki/Ultimate_Collector's_Series) come with a plaque with details about the model. Those that don't, like [the Batmobile](http://brickset.com/sets/7784-1/The-Batmobile-Ultimate-Collectors-Edition), can look out of place next to their [plaque-owning counterparts](http://brickset.com/sets/76023-1/The-Tumbler).

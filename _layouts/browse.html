@@ -12,19 +12,39 @@
 
 		{{ content }}
 
-		<h2>Categories</h2>
-
-		<p>
-			{% for category in site.cats %}
-		    	<code class="article__category article__category--large">
-		    		<a href="/category/{{ category | downcase}}">
-			    		{{ category }}
-		    		</a>
-	    		</code>
-			{% endfor %}
-		</p>
-
 	</section>
+
+	<h2>Categories</h2>
+
+	<p>
+		{% for category in site.cats %}
+	    	<code class="article__category article__category--large">
+	    		<a href="/category/{{ category | downcase}}">
+		    		{{ category }}
+	    		</a>
+    		</code>
+		{% endfor %}
+	</p>
+
+	<h2>Flickr Albums</h2>
+
+	{% assign ids = '0' %}
+
+	{% for post in site.posts %}
+		{% if post.flickr %}	
+			{% unless ids contains post.flickr %}
+				{% assign ids = ids | append: ',' | append: post.flickr %}
+			{% endunless %}
+		{% endif %}
+	{% endfor %}
+
+	{% assign ids = ids | split: ',' %}
+
+	{% for id in ids %}
+		{% unless id == '0' %}
+			{% include flickfeed.html id=id %}
+		{% endunless %}
+	{% endfor %}
 
 </article>
 

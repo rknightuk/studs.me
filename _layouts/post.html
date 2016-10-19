@@ -15,25 +15,7 @@
 	</section>
 
 	{% if page.flickr %}
-		<div class="flickr-album">
-            <p class="article__source"><a target="_blank" href="https://www.flickr.com/photos/rmlewisuk/sets/{{page.flickr}}">
-            	View album on Flickr</a>
-        	</p>
-
-            <div id="flickfeed"></div>
-            <script src="/assets/js/flickfeed.js"></script>
-			<script type="text/javascript">
-				Flickfeed({
-					userId: "28395116@N05",
-					limit: 5,
-					target: "#flickfeed",
-					size: 'q',
-					sort: 'date-posted-desc',
-					setId: "{{ page.flickr }}",
-					template: {% raw %}"<a class='flick-feed-image' target='_blank' title='{{title}}' href='{{link}}'><img src='{{image}}' /></a>"{% endraw %}
-				});
-			</script>
-		</div>
+		{% include flickfeed.html id=page.flickr %}
     {% endif %}
 
 	{% if page.source %}

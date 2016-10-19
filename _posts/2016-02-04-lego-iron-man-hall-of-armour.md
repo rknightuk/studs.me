@@ -6,7 +6,7 @@ excerpt: "My Iron Man Hall of Armour MOC display."
 category: MOC
 tags: marvel
 sets: "76048: Iron Skull Sub Attack, 76049: Avenjet Space Mission, 5002946: Silver Centurion"
-flickr: 72157663892577370
+flickr: "72157663892577370"
 ---
 
 [![iron-man-hall-of-armour-1-small.jpg](http://studshq.s3.amazonaws.com/iron-man-hall-of-armour-1-small.jpg)](http://studshq.s3.amazonaws.com/iron-man-hall-of-armour-1-small.jpg)

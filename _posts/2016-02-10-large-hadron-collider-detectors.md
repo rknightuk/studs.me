@@ -5,7 +5,7 @@ permalink: /large-hadron-collider-detectors
 excerpt: "My MOC display for the Large Hadron Collider detectors."
 category: MOC
 tags: ideas
-flickr: 72157664412606416
+flickr: "72157664412606416"
 ---
 
 [![lego-lhc-detectors-all-small.jpg](http://studshq.s3.amazonaws.com/lego-lhc-detectors-all-small.jpg)](http://studshq.s3.amazonaws.com/lego-lhc-detectors-all-small.jpg)
